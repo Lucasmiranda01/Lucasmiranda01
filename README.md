@@ -1,1 +1,1 @@
-< img src = "giphy.webp" width = "325px">
+<img src = "giphy.webp" width = "325px">
